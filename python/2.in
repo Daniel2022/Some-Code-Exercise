@@ -1,0 +1,44 @@
+bool LZBo_8P = True ;
+bool cLrEULT = True ;
+bool 7lhFXmF = False ;
+bool C2r7_8e = False ;
+bool Bb9RHOc = False ;
+bool owhbk2J = True ;
+bool XroOh7Q = True ;
+bool xGnN5ta = True ;
+bool hyd6Lu2 = False ;
+bool 4PnEx8Q = True ;
+main()
+{
+1:  hyd6Lu2 = ! 7lhFXmF ;
+2:  xGnN5ta = ! XroOh7Q & 7lhFXmF ;
+3:  XroOh7Q = ! C2r7_8e ;
+4:  while ( ( ( C2r7_8e | ! XroOh7Q | ! XroOh7Q ) & ! owhbk2J ) )
+5:  7lhFXmF = ( ( ( ! xGnN5ta | ! cLrEULT ) | 4PnEx8Q ) & XroOh7Q ) ;
+6:  4PnEx8Q = ! xGnN5ta ;
+7:  xGnN5ta = ( ( ( hyd6Lu2 | 7lhFXmF & ! xGnN5ta ) & 4PnEx8Q ) | ! XroOh7Q ) ;
+	 done
+8:  C2r7_8e = owhbk2J | 7lhFXmF ;
+9:  pass ;
+10:  xGnN5ta = ( cLrEULT | ! 7lhFXmF & ! cLrEULT ) & ! LZBo_8P & ! 7lhFXmF ;
+11:  if ( ! hyd6Lu2 | ! Bb9RHOc | ! Bb9RHOc | 7lhFXmF | ! xGnN5ta )
+12:  hyd6Lu2 = XroOh7Q ;
+13:  LZBo_8P = ! 7lhFXmF | ! hyd6Lu2 | ! C2r7_8e | XroOh7Q ;
+14:  hyd6Lu2 = ! owhbk2J ;
+	 fi
+15:  while ( ! 7lhFXmF | ! 4PnEx8Q | LZBo_8P | 4PnEx8Q )
+16:  4PnEx8Q = xGnN5ta ;
+17:  7lhFXmF = ! 4PnEx8Q ;
+18:  xGnN5ta = ! 7lhFXmF | hyd6Lu2 | 7lhFXmF ;
+	 done
+19:  LZBo_8P = 4PnEx8Q ;
+20:  pass ;
+21:  while ( ! cLrEULT )
+22:  XroOh7Q = cLrEULT | xGnN5ta | 7lhFXmF ;
+23:  LZBo_8P = ( hyd6Lu2 & ! XroOh7Q ) & ! XroOh7Q | C2r7_8e ;
+24:  LZBo_8P = ! hyd6Lu2 & XroOh7Q & XroOh7Q ;
+	 done
+25:  Bb9RHOc = ( ( ( ( ! xGnN5ta | ! owhbk2J ) & 7lhFXmF ) & ! 7lhFXmF ) | ! Bb9RHOc ) ;
+26:  4PnEx8Q = ( ( ( LZBo_8P | hyd6Lu2 ) & ! XroOh7Q ) & ! 7lhFXmF ) ;
+27:  return  XroOh7Q ;
+}

@@ -1,0 +1,36 @@
+bool Wos4PCZ = False ;
+bool F1TF_3p = False ;
+bool ifXUYIz = False ;
+bool tNl9oji = False ;
+bool S0HGqJh = True ;
+bool WftzEzu = False ;
+bool Ln7ILfJ = True ;
+bool xV7it40 = False ;
+bool sQJp7_5 = True ;
+bool kO9xOOg = True ;
+main()
+{
+1:  Ln7ILfJ = ! xV7it40 & xV7it40 ;
+2:  ifXUYIz = ( ! Ln7ILfJ | tNl9oji ) | ! kO9xOOg ;
+3:  while( ( ! WftzEzu | Ln7ILfJ | ! kO9xOOg | sQJp7_5 ) )
+4:  WftzEzu = ( ( ( ! xV7it40 | ! ifXUYIz ) | Wos4PCZ ) & ! WftzEzu | ! tNl9oji ) ;
+         done
+5:  pass ;
+6:  ifXUYIz = ( F1TF_3p & ! xV7it40 ) & tNl9oji & S0HGqJh & Ln7ILfJ ;
+7:  ifXUYIz = ( ( WftzEzu & ! sQJp7_5 & ! S0HGqJh ) | ! Ln7ILfJ ) & ifXUYIz ;
+8:  if( ( ! Wos4PCZ | ! xV7it40 ) )
+9:  kO9xOOg = ( ( ! ifXUYIz | tNl9oji | ! F1TF_3p ) | ! WftzEzu ) | xV7it40 ;
+         fi
+10:  tNl9oji = ( ( ! F1TF_3p | ! tNl9oji | ! Ln7ILfJ ) & sQJp7_5 ) ;
+11:  while( ! F1TF_3p | ! Wos4PCZ )
+12:  ifXUYIz = ( ! S0HGqJh | xV7it40 ) & ! sQJp7_5 ;
+13:  ifXUYIz = ( ( ! tNl9oji | WftzEzu | ! kO9xOOg ) & ifXUYIz ) & Wos4PCZ ;
+14:  xV7it40 = ( ( ! tNl9oji & ! xV7it40 ) & kO9xOOg ) ;
+         done
+15:  S0HGqJh = ( ( xV7it40 | Wos4PCZ ) | Wos4PCZ | ! Ln7ILfJ & tNl9oji ) ;
+16:  if( Wos4PCZ | Wos4PCZ )
+17:  tNl9oji = ! Wos4PCZ ;
+         fi
+18:  pass ;
+19:  return  WftzEzu ;
+}

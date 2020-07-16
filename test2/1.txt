@@ -1,0 +1,39 @@
+bool I4a5usg = False ;
+bool Mn57QW7 = False ;
+bool 8Bxu_Uj = False ;
+bool 85GoGgZ = True ;
+bool Tj4w2eP = True ;
+bool SHiYKaV = True ;
+bool eFvTMca = True ;
+bool zbtnAy7 = True ;
+bool jKfTERX = True ;
+bool GY33LmW = False ;
+main()
+{
+1:  pass ;
+2:  jKfTERX = ( ( ! jKfTERX | Tj4w2eP ) & Tj4w2eP ) ;
+3:  while ( ! Tj4w2eP )
+4:  GY33LmW = ( 8Bxu_Uj & SHiYKaV | ! 85GoGgZ ) ;
+	 done
+5:  pass ;
+6:  jKfTERX = ( ! jKfTERX | ! 8Bxu_Uj & ! SHiYKaV & Tj4w2eP ) | 85GoGgZ ;
+7:  while ( ! I4a5usg )
+8:  8Bxu_Uj = ( ! 85GoGgZ | 8Bxu_Uj | 85GoGgZ ) ;
+9:  pass ;
+	 done
+10:  pass ;
+11:  Mn57QW7 = ( ( Mn57QW7 | SHiYKaV ) & ! jKfTERX ) ;
+12:  if ( ( ( ( Tj4w2eP | Mn57QW7 ) & ! jKfTERX ) & SHiYKaV | ! Mn57QW7 ) )
+13:  85GoGgZ = ! eFvTMca | jKfTERX | ! zbtnAy7 ;
+14:  Tj4w2eP = ! eFvTMca | ! GY33LmW ;
+15:  GY33LmW = ( ! 8Bxu_Uj | ! 85GoGgZ ) | ! GY33LmW & 85GoGgZ & GY33LmW ;
+	 fi
+16:  pass ;
+17:  8Bxu_Uj = ( I4a5usg | Mn57QW7 ) ;
+18:  if ( ! eFvTMca & ! Mn57QW7 )
+19:  GY33LmW = ( ( ( I4a5usg | ! jKfTERX ) | 8Bxu_Uj ) | eFvTMca ) | ! zbtnAy7 ;
+20:  pass ;
+	 fi
+21:  jKfTERX = 8Bxu_Uj & 85GoGgZ ;
+22:  return  eFvTMca ;
+}

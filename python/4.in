@@ -1,0 +1,38 @@
+bool 1xQuYqN = True ;
+bool B6bcPJw = True ;
+bool z_WfbVZ = False ;
+bool ZJFJJYj = False ;
+bool VdS1143 = False ;
+bool HLw5KWF = False ;
+bool SAYtT0W = False ;
+bool lfjSxA5 = True ;
+bool 9p8SEx3 = True ;
+bool eWVs0hA = False ;
+main()
+{
+1:  SAYtT0W = ! eWVs0hA & HLw5KWF ;
+2:  while ( ! z_WfbVZ )
+3:  B6bcPJw = ( ( eWVs0hA & ! 9p8SEx3 ) | 1xQuYqN & B6bcPJw ) ;
+4:  SAYtT0W = ZJFJJYj ;
+5:  VdS1143 = ! eWVs0hA ;
+         done
+6:  z_WfbVZ = ( VdS1143 | lfjSxA5 ) ;
+7:  while ( ZJFJJYj | 1xQuYqN )
+8:  1xQuYqN = ( ! 9p8SEx3 & B6bcPJw ) ;
+9:  ZJFJJYj = ( ( ( z_WfbVZ & VdS1143 ) & ! VdS1143 & ! B6bcPJw ) | lfjSxA5 ) ;
+         done
+10:  while ( ( ( ( ! 1xQuYqN | ! z_WfbVZ ) | B6bcPJw ) | ! ZJFJJYj & z_WfbVZ ) )
+11:  ZJFJJYj = ( ( lfjSxA5 & 9p8SEx3 ) | ! z_WfbVZ ) & 9p8SEx3 & VdS1143 ;
+12:  lfjSxA5 = ! VdS1143 ;
+13:  1xQuYqN = ( VdS1143 & B6bcPJw ) ;
+         done
+14:  z_WfbVZ = ( ( ( ! SAYtT0W | SAYtT0W ) | z_WfbVZ ) | ! HLw5KWF & ! 9p8SEx3 ) ;
+15:  B6bcPJw = ( ! eWVs0hA & z_WfbVZ & ! z_WfbVZ ) ;
+16:  while ( ! z_WfbVZ )
+17:  B6bcPJw = ! SAYtT0W ;
+18:  B6bcPJw = eWVs0hA ;
+19:  z_WfbVZ = B6bcPJw ;
+         done
+20:  z_WfbVZ = eWVs0hA ;
+21:  return  eWVs0hA ;
+}
